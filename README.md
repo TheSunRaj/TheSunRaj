@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python student
 - 📫 How to reach me by mail
-- 😄 Pronouns: His
+- 😄 Pronouns: Him
 - ⚡ Fun fact: I like Anubis
 
 <!---
